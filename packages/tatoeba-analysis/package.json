@@ -1,0 +1,23 @@
+{
+  "name": "@boris.to/tatoeba-analysis",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+	"type": "module",
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/wydengyre/boris.to"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+		"@boris.to/tatoeba-reader":"*"
+  }
+}
